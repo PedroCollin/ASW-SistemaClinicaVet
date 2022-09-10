@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T01:01:09.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.25" etag="eSdN03BPU1igfPuzBM2f" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-10T01:04:08.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.25" etag="2x0JyoEjhIcqhl3SXfO3" version="20.3.0" type="github" pages="2">
   <diagram id="UO5ZI57kdqY5XJjfR8oV" name="CONTEXTO">
     <mxGraphModel dx="1564" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="JSON" c4Description="Faz o CRUD dos dados no banco de dados" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="h4R7nenoSKEIjOYuJI3m-3">
+        <object placeholders="1" c4Type="Relationship" c4Technology="Axios/Json" c4Description="Faz o CRUD dos dados no banco de dados" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="h4R7nenoSKEIjOYuJI3m-3">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="as6Zp-hpTp5ScLHNCAMw-5" target="as6Zp-hpTp5ScLHNCAMw-3">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="-30" y="510" as="sourcePoint" />
@@ -210,7 +210,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <object placeholders="1" c4Type="Relationship" c4Technology="JSON" c4Description="Faz o CRUD no banco de dados" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="h4R7nenoSKEIjOYuJI3m-6">
+        <object placeholders="1" c4Type="Relationship" c4Technology="Axios/Json" c4Description="Faz o CRUD no banco de dados" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="h4R7nenoSKEIjOYuJI3m-6">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.464;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="as6Zp-hpTp5ScLHNCAMw-6" target="as6Zp-hpTp5ScLHNCAMw-4">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="460" y="490" as="sourcePoint" />
